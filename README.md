@@ -13,26 +13,26 @@
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
 
-### T¢picos 
+### TÂ¢picos 
 
-:small_blue_diamond: [Descri‡Æo do projeto](#descri‡Æo-do-projeto)
+:small_blue_diamond: [Descriâ€¡Ã†o do projeto](#descriâ€¡Ã†o-do-projeto)
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplica‡Æo](#deploy-da-aplica‡Æo-dash)
+:small_blue_diamond: [Deploy da Aplicaâ€¡Ã†o](#deploy-da-aplicaâ€¡Ã†o-dash)
 
-:small_blue_diamond: [Pr‚-requisitos](#pr‚-requisitos)
+:small_blue_diamond: [Prâ€š-requisitos](#prâ€š-requisitos)
 
-:small_blue_diamond: [Como rodar a aplica‡Æo](#como-rodar-a-aplica‡Æo-arrow_forward)
+:small_blue_diamond: [Como rodar a aplicaâ€¡Ã†o](#como-rodar-a-aplicaâ€¡Ã†o-arrow_forward)
 
 ... 
 
-Insira os t¢picos do README em links para facilitar a navega‡Æo do leitor
+Insira os tÂ¢picos do README em links para facilitar a navegaâ€¡Ã†o do leitor
 
-## Descri‡Æo do projeto 
+## Descriâ€¡Ã†o do projeto 
 
 <p align="justify">
-  Descri‡Æo breve do projeto compondo um paragrafo ou dois. 
+  Descriâ€¡Ã†o breve do projeto compondo um paragrafo ou dois. 
 </p>
 
 ## Funcionalidades
@@ -45,23 +45,23 @@ Insira os t¢picos do README em links para facilitar a navega‡Æo do leitor
 
 :heavy_check_mark: Funcionalidade 4  
 
-## Layout ou Deploy da Aplica‡Æo :dash:
+## Layout ou Deploy da Aplicaâ€¡Ã†o :dash:
 
-> Link do deploy da aplica‡Æo. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+> Link do deploy da aplicaâ€¡Ã†o. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
 
 ... 
 
-Se ainda nÆo houver deploy, insira capturas de tela da aplica‡Æo ou gifs
+Se ainda nÃ†o houver deploy, insira capturas de tela da aplicaâ€¡Ã†o ou gifs
 
-## Pr‚-requisitos
+## Prâ€š-requisitos
 
 :warning: [Node](https://nodejs.org/en/download/)
 
 ...
 
-Liste todas as dependencias e libs que o usu rio deve ter instalado na m quina antes de rodar a aplica‡Æo 
+Liste todas as dependencias e libs que o usuÂ rio deve ter instalado na mÂ quina antes de rodar a aplicaâ€¡Ã†o 
 
-## Como rodar a aplica‡Æo :arrow_forward:
+## Como rodar a aplicaâ€¡Ã†o :arrow_forward:
 
 No terminal, clone o projeto: 
 
@@ -71,7 +71,7 @@ git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
 
 ... 
 
-Coloque um passo a passo para rodar a sua aplica‡Æo. **Dica: clone o pr¢prio projeto e verfique se o passo a passo funciona**
+Coloque um passo a passo para rodar a sua aplicaâ€¡Ã†o. **Dica: clone o prÂ¢prio projeto e verfique se o passo a passo funciona**
 
 ## Como rodar os testes
 
@@ -83,13 +83,13 @@ $ npm test, rspec, etc
 
 ## Casos de Uso
 
-Explique com mais detalhes como a sua aplica‡Æo poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
+Explique com mais detalhes como a sua aplicaâ€¡Ã†o poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
 
-Exemplo: Caso a sua aplica‡Æo tenha alguma funcionalidade de login apresente neste t¢pico os dados necess rios para acess -la.
+Exemplo: Caso a sua aplicaâ€¡Ã†o tenha alguma funcionalidade de login apresente neste tÂ¢pico os dados necessÂ rios para acessÂ -la.
 
 ## JSON :floppy_disk:
 
-### Usu rios: 
+### UsuÂ rios: 
 
 |name|email|password|token|avatar|
 | -------- |-------- |-------- |-------- |-------- |
@@ -101,7 +101,7 @@ Se quiser, coloque uma amostra do banco de dados
 
 ## Iniciando/Configurando banco de dados
 
-Se for necess rio configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
+Se for necessÂ rio configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
@@ -110,7 +110,7 @@ Se for necess rio configurar algo antes de iniciar o banco de dados insira os co
 
 ...
 
-Liste as tecnologias utilizadas no projeto que **nÆo** forem reconhecidas pelo Github 
+Liste as tecnologias utilizadas no projeto que **nÃ†o** forem reconhecidas pelo Github 
 
 ## Resolvendo Problemas :exclamation:
 
@@ -118,7 +118,7 @@ Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento d
 
 ## Tarefas em aberto
 
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplica‡Æo
+Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicaâ€¡Ã†o
 
 :memo: Tarefa 1 
 
@@ -128,12 +128,12 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Liste o time respons vel pelo desenvolvimento do projeto
+Liste o time responsÂ vel pelo desenvolvimento do projeto
 
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=40
+| 
 | :---: | :---: | :---: 
 
-## Licen‡a 
+## Licenâ€¡a 
 
 The [MIT License]() (MIT)
 
